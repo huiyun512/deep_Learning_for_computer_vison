@@ -53,4 +53,3 @@ if __name__ == '__main__':
     print(images.shape)
     print(labels.shape)
 """
-
